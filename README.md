@@ -6,11 +6,11 @@
 - Backend: Node.js (Express)
 
 - **Launch Backend**
-- cd StarterCode/backend
+- _cd StarterCode/backend_
 - npm install
 - node index.js
 
 - **Launch Frontend**
-- cd StarterCode/frontend
+- _cd StarterCode/frontend_
 - npm install
 - npm run
